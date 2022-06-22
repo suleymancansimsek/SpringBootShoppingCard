@@ -1,0 +1,2 @@
+create schema DBMSPROJECT;
+use DBMSPROJECT;
